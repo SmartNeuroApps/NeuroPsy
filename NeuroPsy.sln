@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiments", "NeuroPsy\Experiments.csproj", "{965958DA-B97D-4C9D-8141-7CC015328441}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Analytics", "Analytics\Analytics.pyproj", "{1D0CDE64-9FF0-4B1C-B883-69EDD7D0F94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Description = The application measures the attenention and cognitive load of the participants 
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Debug|x64.Build.0 = Debug|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Release|x64.ActiveCfg = Release|x64
+		{965958DA-B97D-4C9D-8141-7CC015328441}.Release|x64.Build.0 = Release|x64
+		{1D0CDE64-9FF0-4B1C-B883-69EDD7D0F94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0CDE64-9FF0-4B1C-B883-69EDD7D0F94B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1D0CDE64-9FF0-4B1C-B883-69EDD7D0F94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0CDE64-9FF0-4B1C-B883-69EDD7D0F94B}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8FEFCB-4277-4F97-84B6-1DCFD970CB96}
+	EndGlobalSection
+EndGlobal
